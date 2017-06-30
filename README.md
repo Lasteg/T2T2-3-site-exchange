@@ -1,7 +1,7 @@
 # T2T2-3-site-exchange
 MATLAB NMR T2-T2 sequence 3-site exchange simulator 
 
-Please check Vadzim Yermakou "Study of the transport of water in the
+Please check Vadzim Yermakou's "Study of the transport of water in the
 nanopores of C–S–H by 1H NMR" Thesis from University of Surrey for details.
 
 The T2−T2 experiment is known to be effective for exchange monitoring. It consists of
